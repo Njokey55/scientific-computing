@@ -1,4 +1,3 @@
-
 # Define some numbers
 int_num = 10
 float_num = 15.5
