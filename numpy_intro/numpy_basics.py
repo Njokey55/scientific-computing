@@ -1,4 +1,3 @@
-# Example Python script nums.py
 
 # Define some numbers
 int_num = 10
